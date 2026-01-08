@@ -318,10 +318,8 @@ MIT License - feel free to use this code for educational and commercial purposes
 
 ## 👨‍💻 Author
 
-[Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: (https://www.linkedin.com/in/anish-rudra/)
+- Email: anishrudra1@gmail.com
 
 ## 🙏 Acknowledgments
 
