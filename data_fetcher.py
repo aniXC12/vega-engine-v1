@@ -3,7 +3,7 @@ Live market data fetcher using yfinance.
 Pulls options chains and OHLCV history for the dashboard.
 """
 
-import numpy as np
+import numpy as nd
 import pandas as pd
 import yfinance as yf
 from datetime import datetime, date
